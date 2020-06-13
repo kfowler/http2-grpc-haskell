@@ -31,6 +31,10 @@ dependencies:
 - http2-grpc-proto-lens
 - http2-client
 - microlens
+- text
+- containers
+- http2-grpc-proto3-wire
+- proto3-wire
 
 library:
   source-dirs: src
